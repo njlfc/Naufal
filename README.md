@@ -1,6 +1,8 @@
 # Naufal
 Hasil Pengerjaan Test Sharing Vision a/n Naufal Ramadhan
 
+Download file test.zip dari repo 'Naufal'
+
 Extract File Zip: Naufal-main.zip di mana saja lalu Buka folder Naufal-main
 
 Copy file zip dengan nama (test.zip), dan paste pada folder: xampp/htdocs/dashboard
